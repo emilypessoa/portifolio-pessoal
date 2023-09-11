@@ -15,8 +15,8 @@ Este é um modelo de página inicial simples e bonita, projetado para ajudar voc
 Este projeto tem como objetivo central aprimorar suas habilidades de comunicação escrita e sua capacidade de criar READMEs eficazes para projetos de código aberto. Através deste portfólio, demosntrarei minha proficiência técnica, compreensão dos melhores padrões de documentação e capacidade de apresentar informações técnicas de forma clara e concisa.
 
 ## ⚙️Funcionalidades
-Demonstração de Habilidades Técnicas
-Atrair Recrutadores e Empregadores
+* Demonstração de Habilidades Técnicas
+* Atrair Recrutadores e Empregadores
 Compartilhar Experiência
 Melhorar a Comunicação Técnica
 Construir uma Marca Pessoal
