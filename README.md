@@ -38,9 +38,9 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 📍Bootstrap
 
 ## 📚Fontes consultadas
-[Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
-[Um modelo para fazer um bom README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
-[Exemplos Bootstrap](https://getbootstrap.com/docs/5.3/examples/)
+* [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Um modelo para fazer um bom README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+* [Exemplos Bootstrap](https://getbootstrap.com/docs/5.3/examples/)
 
 ## 👥Autores
 [Emily Pessoa](https://github.com/emilypessoa)
