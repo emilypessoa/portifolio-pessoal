@@ -10,6 +10,8 @@
 ![image](img/capa.png)
 
 ## 📄Descrição 
+Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
+
 Este projeto tem como objetivo central aprimorar suas habilidades de comunicação escrita e sua capacidade de criar READMEs eficazes para projetos de código aberto. Através deste portfólio, você demonstrará sua proficiência técnica, sua compreensão dos melhores padrões de documentação e sua capacidade de apresentar informações técnicas de forma clara e concisa.
 
 ## ⚙️Funcionalidades
@@ -18,7 +20,6 @@ Atrair Recrutadores e Empregadores
 Compartilhar Experiência
 Melhorar a Comunicação Técnica
 Construir uma Marca Pessoal
-Networking e Colaboração
 Aprender e Crescer
 Inspirar e Educar Outros
 Documentação de Projetos Pessoais
